@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0560b9d0-5ed8-4dce-8622-22747d8df54e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baitap-session12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt2/CheckBracket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt6/BracketChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bt9/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dtHPw9B3zTr8wjjClQJMTGLSqr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BracketChecker.executor": "Run",
+    "Application.CheckBracket.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.bt11.Main.executor": "Run",
+    "Application.bt13.Main.executor": "Run",
+    "Application.bt14.Main.executor": "Run",
+    "Application.bt15.Main.executor": "Run",
+    "Application.bt3.Main.executor": "Run",
+    "Application.bt4.Main.executor": "Run",
+    "Application.bt5.Main.executor": "Debug",
+    "Application.bt9.Main.executor": "Run",
+    "Application.bttest.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/ADMIN/IdeaProjects/MD2-JAVA/baitap-session12/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bt14" />
+      <recent name="bt11" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.bt9.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt12.Main" />
+      <module name="baitap-session12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt13.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt13.Main" />
+      <module name="baitap-session12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt14.Main" />
+      <module name="baitap-session12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt15.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt15.Main" />
+      <module name="baitap-session12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt9.Main" />
+      <module name="baitap-session12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bt9.Main" />
+        <item itemvalue="Application.bt15.Main" />
+        <item itemvalue="Application.bt14.Main" />
+        <item itemvalue="Application.bt13.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0560b9d0-5ed8-4dce-8622-22747d8df54e" name="Changes" comment="" />
+      <created>1710820435767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710820435767</updated>
+      <workItem from="1710820436874" duration="1294000" />
+      <workItem from="1710821747431" duration="11004000" />
+      <workItem from="1710836955202" duration="5506000" />
+      <workItem from="1710865297682" duration="4556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
